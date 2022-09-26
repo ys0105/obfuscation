@@ -1,0 +1,1 @@
+main(int,const char**argv){printf("%s",argv[0]+2);}
